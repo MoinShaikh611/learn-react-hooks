@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
-import LearnUseEffect from './LearnUseEffect';
+import LearnUseMemo from './LearnUseMemo';
 
 export default function App() {
   return (
     <div>
-      <LearnUseEffect />
+      <LearnUseMemo />
     </div>
   );
 }
