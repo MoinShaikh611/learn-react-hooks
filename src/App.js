@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
-import UseStateExplained from './useStateLearn';
+import LearnUseEffect from './LearnUseEffect';
 
 export default function App() {
   return (
     <div>
-      <UseStateExplained />
+      <LearnUseEffect />
     </div>
   );
 }
