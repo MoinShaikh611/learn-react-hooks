@@ -1,11 +1,12 @@
 import React from 'react';
 import './style.css';
-import LearnUseMemo from './LearnUseMemo';
+import Parent from './usecallback/Parent';
 
 export default function App() {
   return (
     <div>
-      <LearnUseMemo />
+      <h1>App</h1>
+      <Parent/>
     </div>
   );
 }
